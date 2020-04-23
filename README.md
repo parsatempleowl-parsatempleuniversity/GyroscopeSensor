@@ -12,6 +12,6 @@ Android Gyroscope Sensor Implementation
 
 Android Gyroscope Sensor with TextView Implementation
 
-Adding The Two Hand Gestures To The Android Gyroscope Sensor
+Adding The Two Hand Gestures To The Android Gyroscope Sensor Using Hand Motion Detection Feature
 
 Plotting the Android Gyroscope Sensor Data Using MPAndroidChart Library
