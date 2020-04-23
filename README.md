@@ -1,5 +1,5 @@
-# GyroscopeSensorInAndroid
-Gyroscope Sensor in Android
+# MyGyroscopeSensorApplication
+My Accelerometer Sensor Application - Abdullah Jandali
 
 ## Goal
 
