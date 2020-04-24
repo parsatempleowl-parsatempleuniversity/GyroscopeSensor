@@ -1,5 +1,5 @@
 # MyGyroscopeSensorApplication
-My Gyroscope Sensor Application - Abdullah Jandali
+My Gyroscope Sensor Application - Abdullah Jandali (App uses API 26)
 
 ## Goal
 The goal of this Android application is to simulate an application that rejects or accepts phone calls. By turning the phone left or right, the gyroscope sensor determines whether the call in answered or declined, visualized through a color-changing background.
