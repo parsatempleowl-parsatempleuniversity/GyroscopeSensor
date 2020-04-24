@@ -2,7 +2,7 @@
 My Gyroscope Sensor Application - Abdullah Jandali
 
 ## Goal
-The goal of this Android application is to display the x, y, and z values to the user using a text view for each one of them; display the x, y, and z values in real time using MPAndroidChart Library; and it includes the hand motion detection for left to right hand motion (message that will be displayed: "You have answered the call.") or right to left hand motion (message that will be displayed: "You have rejected the call."). 
+The goal of this Android application is to simulate an application that rejects or accepts phone calls. By turning the phone left or right, the gyroscope sensor determines whether the call in answered or declined, visualized through a color-changing background.
 
 ## Application/Scenario
 This app is used mostly by car commuters or people who are too busy to answer the incoming calls. If someone is driving and has to keep their hands on the wheel, answering hands-free would benefit commuters greatly if they receive an important incoming call. Additionally, although just a little less important, if someone is too lazy to get up and reject a call, they could call out for their phone to reject it. 
