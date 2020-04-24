@@ -1,5 +1,5 @@
 # MyGyroscopeSensorApplication
-My Accelerometer Sensor Application - Abdullah Jandali
+My Gyroscope Sensor Application - Abdullah Jandali
 
 ## Goal
 The goal of this Android application is to display the x, y, and z values to the user using a text view for each one of them; display the x, y, and z values in real time using MPAndroidChart Library; and it includes the hand motion detection for left to right hand motion (message that will be displayed: "You have answered the call.") or right to left hand motion (message that will be displayed: "You have rejected the call."). 
